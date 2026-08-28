@@ -6,7 +6,7 @@ will be familiar. If you haven't, do every step by hand; typing the
 commands is what makes them stick, and every later exercise in this
 course assumes you can do this without looking it up.
 
-## 1. Vocabulary, briefly
+## 1. Vocabulary, briefly :)
 
 - **Repository ("repo")** — a project's full history, tracked by git.
   Lives both on your machine (a local clone) and on GitHub (the
